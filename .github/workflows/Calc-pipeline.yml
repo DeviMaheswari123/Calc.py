@@ -23,5 +23,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install openpyxl
 
-      - name: Run calc.py  # Action to run the first Python script
-        run: python script1.py
+      - name: Run cal.py  # Action to run the first Python script
+        run: python cal.py
